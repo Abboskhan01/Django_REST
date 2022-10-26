@@ -8,5 +8,3 @@ class AuthorViewSet(ModelViewSet):
     serializer_class = AuthorSerializer
 
 
-
-
