@@ -1,0 +1,1 @@
+from .kafedra import KafedraDetailView, KafedraListCreateView
